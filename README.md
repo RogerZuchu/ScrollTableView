@@ -19,12 +19,15 @@ Add Scrollview Kéo tay full màn hình
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
-# Step 5 Chọn Tableview và set  0 0 0 0 với FrameLayout 
+# Step 5 Chọn Tableview và set  0 0 0 0 với Scollview chứ không phải FrameLayout. Sẽ không bị lỗi layout khi chạy lên máy ảo
 
 <img width="1680" alt="Screenshot 2022-06-20 at 01 13 48" src="https://user-images.githubusercontent.com/107794765/174494802-5782753e-6257-4e3c-8452-2216ea47ee69.png">
 -------------------------------------------------------------------------------------------------------------------------------------------
 
-# Step 6 Kéo lên Set Top,lail,trail,bot,horizontal với thằng Scroolview là xong . Nhìn lại vô màn hình đã xanh lè :)))
+# Step 5.1 Nếu set Framelayout thì phải center hori và vertical của nó
+
+
+# Step 6 Kéo lên Set Top,lail,trail,bot,center horizontal,center vertical với thằng Scroolview là xong . Nhìn lại vô màn hình đã xanh lè :)))
 <img width="1680" alt="Screenshot 2022-06-20 at 01 17 32" src="https://user-images.githubusercontent.com/107794765/174494963-fd32f76f-61be-474a-a166-85458cccf86a.png">
 
 
