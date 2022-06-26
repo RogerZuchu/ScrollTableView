@@ -73,6 +73,11 @@ Nếu đổi theo thì check lại các constrainst của màn hình dọc xem �
 -------------------------------------------------------------------------------------------------------------------------------------------
 
 
+# Step 12 Easy để set scrollview + view con ở chế độ ngang
+
+![1](https://user-images.githubusercontent.com/107794765/175807203-2dedb8d4-46e1-49e3-94a7-4f361a197784.jpg)
+
+
 
 
 
